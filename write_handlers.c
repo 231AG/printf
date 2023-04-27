@@ -201,7 +201,7 @@ int write_unsgnd(int is_negative, int ind,
  * @width: The width specification
  * @flags: the flags specification
  * @padd: Char represents the pads
- * @extra_c: representis the extra 
+ * @extra_c: representis the extra
  *characters
  * @padd_start: Index
  * Return: The # of written characters.
