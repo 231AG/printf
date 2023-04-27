@@ -98,7 +98,7 @@ int print_non_printable(va_list types, char buffer[],
  * @size: This specifies the size
  * Return: The number of characters to be output.
  */
- 
+
 int print_reverse(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
 {

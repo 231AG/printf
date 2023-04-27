@@ -33,7 +33,7 @@ int print_unsigned(va_list types, char buffer[],
 	return (write_unsgnd(0, i, buffer, flags, width, precision, size));
 }
 /**
- * print_octal - Prints an unsigned number in an octal 
+ * print_octal - Prints an unsigned number in an octal
  *Notationa ful
  * @types: the list of arguments
  * @buffer: Buffer array to handle print
