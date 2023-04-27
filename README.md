@@ -1,4 +1,4 @@
 Alx printf group project
-Incollaboration with Foday
-C-low_level_programming
+Foday Malike Kabah & Moisema M. Dukuly
 
+C-printf project
